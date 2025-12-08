@@ -5,7 +5,6 @@
 ## 📄 Project Report (Google Sheets)
 [![View Report](https://img.shields.io/badge/Google%20Sheets-View%20Report-brightgreen?style=for-the-badge&logo=google-sheets)](https://drive.google.com/drive/u/1/folders/1aHUnZQ5LcVOl5-S9AzuoOa51APKj6vJR)
 
----
 
 Machine Learning–powered web application to analyze and predict international flight fares from Bangladesh.
 Built using **Python, Streamlit, SQLite, Joblib, Scikit-Learn**.
