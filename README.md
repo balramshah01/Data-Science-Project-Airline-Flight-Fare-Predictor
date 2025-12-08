@@ -4,14 +4,15 @@ Machine Learning–powered web application to analyze and predict international 
 Built using **Python, Streamlit, SQLite, Joblib, Scikit-Learn**.
 
 ---
+## 📄 Project Report (Google Sheets)
+[![View Report](https://img.shields.io/badge/Google%20Sheets-View%20Report-brightgreen?style=for-the-badge&logo=google-sheets)](https://drive.google.com/drive/u/1/folders/1aHUnZQ5LcVOl5-S9AzuoOa51APKj6vJR)
+
+---
+## App Live
 
 **(Updating...) Working On WebApp**
 
 ---
-
-## 📄 Project Report (Google Sheets)
-https://drive.google.com/file/d/1vxBISoJqyz1v6BqN2UHwGcx6mqVGxuYC/view?usp=sharing
-
 
 ## 🚀 Project Overview
 
