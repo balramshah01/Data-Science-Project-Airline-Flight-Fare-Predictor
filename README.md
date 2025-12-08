@@ -9,6 +9,10 @@ Built using **Python, Streamlit, SQLite, Joblib, Scikit-Learn**.
 
 ---
 
+## 📄 Project Report (Google Sheets)
+https://drive.google.com/file/d/1vxBISoJqyz1v6BqN2UHwGcx6mqVGxuYC/view?usp=sharing
+
+
 ## 🚀 Project Overview
 
 This project aims to predict the **Total Flight Fare (BDT)** for international routes originating from Bangladesh.
