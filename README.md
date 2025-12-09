@@ -10,9 +10,9 @@ Machine Learning–powered web application to analyze and predict international 
 Built using **Python, Streamlit, SQLite, Joblib, Scikit-Learn**.
 
 ---
-## App Live
+## 🚀 Live App (Still Updating...)
 
-**(Updating...) Working On WebApp**
+👉 [Launch the Airline Price Predictor WebApp](https://balram-airline-flight-fare-predictor.streamlit.app/)
 
 ---
 
